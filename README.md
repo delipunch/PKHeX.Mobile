@@ -34,3 +34,5 @@ Build->Clean Solution, Build->Rebuild All, Build->Deploy
 On your device, manually grant the permissions required (storage, camera) so that files can be written & the QR scanning can be performed without issue.
 
 Once you have granted the app permissions, you can run it!
+====
+This fork is for auto-building with Microsoft AppCenter.
